@@ -14,4 +14,4 @@ I want to:
 
 [Follow me on my LinkedIn](https://www.linkedin.com/in/steven-aponte/)
 
-	![This is how I want my brain to look after this class](![Buff Spongebob](https://github.com/StevenAponte815/CPE322/assets/85426937/d5036727-5e7a-46dc-94aa-cc17bad639e0))
+	![This is how I want my brain to look after this class](https://github.com/StevenAponte815/CPE322/assets/85426937/71a79837-a6a7-41f7-8242-cd914fc8e36e)
