@@ -17,5 +17,23 @@ As I follow along the commands, I'll show screenshots of the results.
 After this, I was able to download the proper Github to the Raspberry Pi.
 ![CD to CD Demo](https://github.com/StevenAponte815/CPE322/assets/85426937/d9181b94-ae08-42fa-9b3b-996a27f274de)
 
-As I followed the commands, I took note of the both the Nano and Cat File
+As I followed the commands, I took note of the Nano File
 ![Screenshot of Nano File](https://github.com/StevenAponte815/CPE322/assets/85426937/0d3fc62d-1bd6-4e40-aed3-b27446b9b067)
+
+I wasn't able to get the Cat File, and I was having some issues with trying to figure out the rest of the command lines, but I was able to get this so far.
+![Cat to RM](https://github.com/StevenAponte815/CPE322/assets/85426937/ef801343-485c-455a-b2fa-99a2ce201985)
+
+I continued with the man uname command, as well as a few more and got this screenshot.
+![Uname](https://github.com/StevenAponte815/CPE322/assets/85426937/279cdfd4-1e4d-455e-b886-c740e24f1545)
+![Uname to ifconfig](https://github.com/StevenAponte815/CPE322/assets/85426937/4a039a3f-c906-41ce-ad71-96a92c089bd5)
+
+After doing the ping localhost command, I was able to get the following results
+![ping localhost](https://github.com/StevenAponte815/CPE322/assets/85426937/02c61d12-782c-4eb5-8c4d-9c7cb3cc0257)
+![ping results](https://github.com/StevenAponte815/CPE322/assets/85426937/e0788248-fab3-4d48-96c6-966212097195)
+
+I was able to finish off with netstat.
+![netstat](https://github.com/StevenAponte815/CPE322/assets/85426937/6cc8d08b-fc87-4ad0-b095-aca6aca7e1c5)
+
+
+
+
