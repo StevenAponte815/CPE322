@@ -21,6 +21,7 @@ As I followed the commands, I took note of the Nano File
 ![Screenshot of Nano File](https://github.com/StevenAponte815/CPE322/assets/85426937/0d3fc62d-1bd6-4e40-aed3-b27446b9b067)
 
 I wasn't able to get the Cat File, and I was having some issues with trying to figure out the rest of the command lines, but I was able to get this so far.
+
 ![Cat to RM](https://github.com/StevenAponte815/CPE322/assets/85426937/ef801343-485c-455a-b2fa-99a2ce201985)
 
 I continued with the man uname command, as well as a few more and got this screenshot.
