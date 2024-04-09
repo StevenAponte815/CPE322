@@ -21,4 +21,9 @@ I downloaded the MariaDB to be able to use the SQlite. I also followed the rest 
 ![Failed DjangoView](https://github.com/StevenAponte815/CPE322/assets/85426937/56c8ea9e-4726-45c7-b04d-ddbae25da7aa)
 
 #### Django REST
-For Django REST, I followed very similar steps for the ones needed for Django. I followed the [mycpu](https://github.com/kevinwlu/iot/tree/master/lesson4/stevenshttps://github.com/kevinwlu/iot/tree/master/lesson4/mycpu)
+For Django REST, I followed very similar steps for the ones needed for Django. I followed the [mycpu](https://github.com/kevinwlu/iot/tree/master/lesson4/stevenshttps://github.com/kevinwlu/iot/tree/master/lesson4/mycpu) github.
+I was able to get everything done, except for the fact that I had same problem as last task, where the actual ip website wouldn't open.
+![Django REST](https://github.com/StevenAponte815/CPE322/assets/85426937/4fcf5c6d-9302-4ad6-9153-64d4e07f1e3d)
+
+#### Flask
+Unfortunately with Flask, I also had the same problem where VNC viewer wasn't working.
