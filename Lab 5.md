@@ -30,6 +30,7 @@ I was able to start the code for Terminal 1 and get into the nano of subraspi
 ![image](https://github.com/StevenAponte815/CPE322/assets/85426937/ca46cdc2-72c9-4759-a6ba-1fd7fae7a849)
 
 I did the same for Terminal 2
+
 ![image](https://github.com/StevenAponte815/CPE322/assets/85426937/06e1a36a-8529-4c21-8494-00a2f619a967)
 ![image](https://github.com/StevenAponte815/CPE322/assets/85426937/a7b009b4-370f-4f81-9aba-a10b3a2b10f4)
 
