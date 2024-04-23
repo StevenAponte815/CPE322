@@ -13,7 +13,8 @@ I got to download the psutil and ran both the thingspeak commands.
 ![cpuloop](https://github.com/StevenAponte815/CPE322/assets/85426937/94d6654a-a0e4-447d-a208-2bce32ef3f1c)
 ![feed](https://github.com/StevenAponte815/CPE322/assets/85426937/35aa21a8-7a82-430a-b164-3bbdc9d26830)
 
-I also provided the necessary API key/
+I also provided the necessary API key.
+
 ![python thingspeak](https://github.com/StevenAponte815/CPE322/assets/85426937/4b45f976-d98c-4414-badb-b402597be1de)
 
 I then began installing the gspread and oauth2client.
