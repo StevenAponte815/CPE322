@@ -25,6 +25,7 @@ Once I got Paho installed, I started to run code on one Terminal and publishing 
 
 
 I was able to start the code for Terminal 1 and get into the nano of subraspi
+
 ![image](https://github.com/StevenAponte815/CPE322/assets/85426937/19025076-7de6-4f71-af73-85eb1ebfb167)
 ![image](https://github.com/StevenAponte815/CPE322/assets/85426937/ca46cdc2-72c9-4759-a6ba-1fd7fae7a849)
 
