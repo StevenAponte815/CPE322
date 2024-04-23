@@ -1,7 +1,7 @@
 # Lab 7 — ThingSpeak and Google Sheets
 
 ### Summary
-For Lab 7, I used the my laptop and raspberry pi to download Node.js and Pystache.
+For Lab 7, I used the raspberry pi to follow along.
 I used Dr. Lu's [Lesson 7](https://github.com/kevinwlu/iot/tree/master/lesson7) to guide me through this.
 
 #### Following the Commands
