@@ -1,8 +1,8 @@
 # Lab 5 — Paho-MQTT
 
 ### Summary
-For Lab 4, I used the Raspberry Pi from Lab 2 to install Paho-MQTT.
-I used Dr. Lu's [Lesson 4](https://github.com/kevinwlu/iot/tree/master/lesson5) to guide me through this.
+For Lab 5, I used the Raspberry Pi from Lab 2 to install Paho-MQTT.
+I used Dr. Lu's [Lesson 5](https://github.com/kevinwlu/iot/tree/master/lesson5) to guide me through this.
 
 #### Following the Commands
 I logged into the Raspberry Pi and started following the slides and the Lesson 5 IoT for the lab, as listed below.
