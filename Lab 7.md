@@ -22,4 +22,5 @@ I then began installing the gspread and oauth2client.
 
 I created the necessary items on the Google Cloud Platform and IAM. I was trying to set the JSON key onto the
 directory, but got stuck on this part.
+
 ![image](https://github.com/StevenAponte815/CPE322/assets/85426937/ae97c30a-0afe-4481-8faa-f098fbc71065)
