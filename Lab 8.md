@@ -8,5 +8,8 @@ I used Dr. Lu's [Lesson 8](https://github.com/kevinwlu/iot/tree/master/lesson8) 
 I essentially followed the slides on the lecture to get this lab started.
 ![Lab 8](https://github.com/StevenAponte815/CPE322/assets/85426937/1645a4f0-9d2c-4098-abb9-0596187e6ad7)
 
-I was able to install everything I had to, but had some problems with TensorFlow.
-![Downloads](https://github.com/StevenAponte815/CPE322/assets/85426937/4dbc137a-b518-4fdb-b5ac-14f91b4afe47)
+I was able to install everything I had to, except TensorFlow was a bit of a headache.
+![TensowFlow Download](https://github.com/StevenAponte815/CPE322/assets/85426937/724b3e6e-ede9-4ae3-82a2-c811685bb8cf)
+
+Since I wasn't able to complete Lab 7 because of the JSON issue, this was as far as I was able to get :(.
+
