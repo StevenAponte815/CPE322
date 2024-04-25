@@ -19,16 +19,22 @@ Once everything I needed was installed, I followed the [stevens](https://github.
 
 ![Stevens](https://github.com/StevenAponte815/CPE322/assets/85426937/44a9235e-0b9d-4703-b302-a98c70a571a0)
 
-I downloaded the MariaDB to be able to use the SQlite. I also followed the rest of the setup for the Django server, but wasn't able to get the actual ip website to pop up.
-
+I downloaded the MariaDB to be able to use the SQlite. I also followed the rest of the setup for the Django stevens server, and got this when I checked the VNCviewer.
 ![MariaDB](https://github.com/StevenAponte815/CPE322/assets/85426937/22004079-3d98-4d5e-a2e7-261b2588f62f)
-![Failed DjangoView](https://github.com/StevenAponte815/CPE322/assets/85426937/56c8ea9e-4726-45c7-b04d-ddbae25da7aa)
+![stevens](https://github.com/StevenAponte815/CPE322/assets/85426937/c8d6d719-6212-43d1-b58e-9bf43fb3275b)
+
 
 #### Django REST
 For Django REST, I followed very similar steps for the ones needed for Django. I followed the [mycpu](https://github.com/kevinwlu/iot/tree/master/lesson4/stevenshttps://github.com/kevinwlu/iot/tree/master/lesson4/mycpu) github.
-I was able to get everything done, except for the fact that I had same problem as last task, where the actual ip website wouldn't open.
 
-![Django REST](https://github.com/StevenAponte815/CPE322/assets/85426937/4fcf5c6d-9302-4ad6-9153-64d4e07f1e3d)
+I was able to get everything done, and got to log into the Django admin website.
+
+![Django REST](https://github.com/StevenAponte815/CPE322/assets/85426937/34a78b4f-a958-4ddb-a363-4cb2970f7f82)
 
 #### Flask
-Unfortunately with Flask, I also had the same problem where VNC viewer wasn't working.
+With Flask, I was able to get everything ready as well and able to view it on the website.
+
+![Running Hello World](https://github.com/StevenAponte815/CPE322/assets/85426937/4df9099a-a4a0-4a8c-8dd7-bb675c071beb)
+
+![Flask Site](https://github.com/StevenAponte815/CPE322/assets/85426937/ecfe1661-29c7-42b0-a649-13c1822a2346)
+
